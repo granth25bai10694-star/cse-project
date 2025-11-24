@@ -1,5 +1,6 @@
 
 #README
+
 Overview
 A simple yet secure Python password generator that creates strong, randomized passwords with a balanced mix of lowercase letters, uppercase letters, numbers, and special characters.
 Features
